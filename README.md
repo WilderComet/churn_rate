@@ -6,7 +6,6 @@ Analyze customer churn behavior and identify factors contributing to customer re
 ## Tools Used
 - Tableau
 - SQL
-- Excel
 
 ## Key Insights
 - Month-to-month contracts had the highest churn rate
