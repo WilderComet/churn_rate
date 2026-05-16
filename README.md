@@ -18,4 +18,6 @@ Analyze customer churn behavior and identify factors contributing to customer re
 - Encourage longer-term contracts
 
 ## Live Dashboard
+Link: https://public.tableau.com/app/profile/samuel.da.silva5371/viz/Churn_Rate_Dashboard_17711688188530/ChurnRateDashboard
+
 <img width="2102" height="1441" alt="image" src="https://github.com/user-attachments/assets/6a4c0db4-c280-4942-9081-99d5bf7e5385" />
